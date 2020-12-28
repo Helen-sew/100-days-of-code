@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# Round 1 of 100 Days Of Code - Log
 
 ### Day 1: December 28, 2020 
 ##### (delete me or comment me out)
