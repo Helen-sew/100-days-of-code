@@ -9,3 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+
+### Day 2: December 29, 2020 
+##### (delete me or comment me out)
+
+**Today's Progress**: To create a ToDo App using HTML,Bootstrap and Vanilla Javascript. The purpose is to practice and improve my JS DOM skill. 
+
+**Thoughts:** struggled with coming out with addItem, removeItem and filterItems functions. 
+
+**Link to work:** [Todo App]()
