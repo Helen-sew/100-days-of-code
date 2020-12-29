@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 
 ### Day 2: December 29, 2020 
@@ -17,4 +17,4 @@
 
 **Thoughts:** struggled with coming out with addItem, removeItem and filterItems functions. 
 
-**Link to work:** [Todo App]()
+**Link to work:** [Todo App](https://helen-sew.github.io/ToDo_App/)
