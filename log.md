@@ -18,3 +18,19 @@
 **Thoughts:** struggled with coming out with addItem, removeItem and filterItems functions. 
 
 **Link to work:** [Todo App](https://helen-sew.github.io/ToDo_App/)
+
+
+### Day 3: December 30, 2020 
+##### (delete me or comment me out)
+
+**Today's Progress**: Daily Read - Simplifying JavaScript by Joe Morgan  
+                                   Tip 1 - Signal Unchanging Values with const
+                                   Tip 2 - Reduce Scope conflicts with let and const 
+                                   Tip 3 - Isolate Information with Block Scoped Variables 
+                                   Tip 4 - Convert Variable to readable strings with template literals 
+                      
+
+
+**Thoughts:** 
+
+**Link to work:** 
