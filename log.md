@@ -34,3 +34,16 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 4: December 31, 2020 
+##### (delete me or comment me out)
+
+**Today's Progress**: Revising Array and Array methods @ https://javascript.info/array-methods
+
+
+**Thoughts:** Even though have read this many times, but still can't really remember how to write them correctly and perfectly.
+
+**Link to work:** Attempted Leetcode Array problems - 
+1389. Create Target Array in the Given Order
+1295. Find Numbers with Even Number of Digits
+
