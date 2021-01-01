@@ -46,4 +46,5 @@
 **Link to work:** Attempted Leetcode Array problems - 
 1389. Create Target Array in the Given Order
 1295. Find Numbers with Even Number of Digits
+1672. Richest Customer Wealth
 
