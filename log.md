@@ -65,11 +65,9 @@ lastly use of @media for responsive website.
 ##### (delete me or comment me out)
 
 **Today's Progress**: Started 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
-Day1 - Expanding Card project 
+Day2 - Progress steps (done HTML and CSS). 
 
-**Thoughts:** learnt about css background properties like background-size; background-repeat; background-position. pseudo-class selector i.e. :nth-of-type and 
-lastly use of @media for responsive website.   
+**Thoughts:** learnt about transform: translateY(-50%), custom variable for colors.
 
-**Link to work:** 
-
+**Link to work:** Attempted Leetcode Problem 977. Squares of a Sorted Array
 
