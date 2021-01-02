@@ -48,3 +48,28 @@
 1295. Find Numbers with Even Number of Digits
 1672. Richest Customer Wealth
 
+
+### Day 5: January 01, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day1 - Expanding Card project 
+
+**Thoughts:** learnt about css background properties like background-size; background-repeat; background-position. pseudo-class selector i.e. :nth-of-type and 
+lastly use of @media for responsive website.   
+
+**Link to work:** 
+
+
+### Day 6: January 02, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day1 - Expanding Card project 
+
+**Thoughts:** learnt about css background properties like background-size; background-repeat; background-position. pseudo-class selector i.e. :nth-of-type and 
+lastly use of @media for responsive website.   
+
+**Link to work:** 
+
+
