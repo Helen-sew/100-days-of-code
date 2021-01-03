@@ -80,5 +80,5 @@ Day2 - Progress steps (continue to work on JS and completed).
 
 **Thoughts:** learnt about JS logic 
 
-**Link to work:** 
-
+**Link to work:** Attempted Leetcode Problem 349. Intersection of Two Arrays, 283. Move Zeroes and 345. Reverse Vowels of a String
+.
