@@ -64,10 +64,21 @@ lastly use of @media for responsive website.
 ### Day 6: January 02, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Started 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
 Day2 - Progress steps (done HTML and CSS). 
 
 **Thoughts:** learnt about transform: translateY(-50%), custom variable for colors.
 
 **Link to work:** Attempted Leetcode Problem 977. Squares of a Sorted Array
+
+
+### Day 7: January 03, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day2 - Progress steps (continue to work on JS and completed). 
+
+**Thoughts:** learnt about JS logic 
+
+**Link to work:** 
 
