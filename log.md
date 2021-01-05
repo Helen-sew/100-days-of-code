@@ -81,4 +81,31 @@ Day2 - Progress steps (continue to work on JS and completed).
 **Thoughts:** learnt about JS logic 
 
 **Link to work:** Attempted Leetcode Problem 349. Intersection of Two Arrays, 283. Move Zeroes and 345. Reverse Vowels of a String
-.
+
+
+### Day 8: January 04, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Daily Read - Simplifying JavaScript by Joe Morgan  
+                                   Tip 5 to 8.
+                                  - revising how to write proper JS's Promise 
+                                  
+**Thoughts:** going thru the old JS video and relearning the Promise. Can understand better now and will continue. 
+
+**Link to work:** 
+
+
+### Day 9: January 05, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day3 - Rotating Nagivation 
+                                  
+**Thoughts:** leant a lot on how to use CSS transform and transition properties. 
+
+**Link to work:** 
+
+
+
+
+
