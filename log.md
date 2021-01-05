@@ -103,7 +103,7 @@ Day3 - Rotating Nagivation
                                   
 **Thoughts:** leant a lot on how to use CSS transform and transition properties. 
 
-**Link to work:** 
+**Link to work:** https://helen-sew.github.io/Rotating_Navigation/
 
 
 
