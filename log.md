@@ -118,5 +118,15 @@ Day 4 - Hidden Search Widget
 **Link to work:** 
 
 
+### Day 11: January 07, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Revise Promise, AJAX, Fetch and Axios 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 
 
