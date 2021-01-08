@@ -128,5 +128,13 @@ Day 4 - Hidden Search Widget
 **Link to work:** 
 
 
+### Day 12: January 08, 2021
+##### (delete me or comment me out)
 
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day 5 - Blurring Loading   
+                                  
+**Thoughts:**  
+
+**Link to work:** 
 
