@@ -144,8 +144,9 @@ Day 5 - Blurring Loading
 **Today's Progress**: 1) 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
 2)Revised Javascript - DataType    
                                   
-**Thoughts:**  
+**Thoughts:** learnt regExp match(). To match all letters i.e. /[a-zA-Z]/g
 
-**Link to work:** attempted Leetcode problem 1684. Count the Number of Consistent Strings
+**Link to work:** attempted Leetcode problem 1684. Count the Number of Consistent Strings and 
+917. Reverse Only Letters
 
 
