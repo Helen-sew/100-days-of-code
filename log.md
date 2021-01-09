@@ -142,9 +142,10 @@ Day 5 - Blurring Loading
 ##### (delete me or comment me out)
 
 **Today's Progress**: 1) 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day6 - Scroll Animation 
 2)Revised Javascript - DataType    
                                   
-**Thoughts:** learnt regExp match(). To match all letters i.e. /[a-zA-Z]/g
+**Thoughts:** learnt regExp match(). To match all letters i.e. /[a-zA-Z]/g. Learnt abt element.getBoundingClientRect(), to get the size and position of an element. Also the window properties like innerHeight and innerWidth. 
 
 **Link to work:** attempted Leetcode problem 1684. Count the Number of Consistent Strings and 
 917. Reverse Only Letters
