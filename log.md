@@ -150,4 +150,20 @@ Day6 - Scroll Animation
 **Link to work:** attempted Leetcode problem 1684. Count the Number of Consistent Strings and 
 917. Reverse Only Letters
 
+### Day 14: January 10, 2021
+##### (delete me or comment me out)
 
+**Today's Progress**: 1) 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day7 - Split landing page
+2)Revised Javascript - Conditional   
+                                  
+**Thoughts:** 
+**Link to work:** 
+
+### Day 15: January 11, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: )Revised Javascript - Dom    
+                                  
+**Thoughts:** 
+**Link to work:** 
