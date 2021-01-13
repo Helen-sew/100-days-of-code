@@ -167,3 +167,24 @@ Day7 - Split landing page
                                   
 **Thoughts:** 
 **Link to work:** 
+
+### Day 16: January 12, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day8 - Form Wave Animation
+
+**Thoughts:** 
+**Link to work:** 
+
+
+### Day 17: January 13, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+Day8 - Form Wave Animation
+
+**Thoughts:** 
+**Link to work:** 
+
+
