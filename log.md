@@ -187,4 +187,13 @@ Day8 - Form Wave Animation
 **Thoughts:** 
 **Link to work:** 
 
+### Day 18: January 14, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com
+2) practised DOM manipulating-created RandomNumberGenerator. Revised Event listener
+
+**Thoughts: **
+**Link to work:** 
+
 
