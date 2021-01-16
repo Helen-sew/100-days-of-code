@@ -197,4 +197,9 @@ Day9_Sound Board
 **Thoughts: **
 **Link to work:** 
 
+### Day 19: January 15, 2021
+##### (delete me or comment me out)
 
+**Today's Progress**: revise and practice Promise, Fetch and Axios 
+**Thoughts: **
+**Link to work:** 
