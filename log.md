@@ -203,3 +203,13 @@ Day9_Sound Board
 **Today's Progress**: revise and practice Promise, Fetch and Axios 
 **Thoughts: **
 **Link to work:** 
+
+### Day 20: January 16, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 1) 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com - 
+Day10_Dad Jokes  
+2) continued to read on Promise, Fetch and Axios. Done above project using Fetch, async await and try...catch. 
+
+**Thoughts: ** Fetch- need to parse the data i.e. res.json(), whereas Axios no need. 
+**Link to work:** 
