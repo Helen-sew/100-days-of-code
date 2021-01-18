@@ -213,3 +213,21 @@ Day10_Dad Jokes
 
 **Thoughts: ** Fetch- need to parse the data i.e. res.json(), whereas Axios no need. 
 **Link to work:** 
+
+### Day 21: January 17, 2021 - Happy Birth to myself ...... 
+##### (delete me or comment me out)
+
+**Today's Progress**: attempted Leetcode problem 1588. Sum of All Odd Length Subarrays
+
+**Thoughts: ** Fetch- need to parse the data i.e. res.json(), whereas Axios no need. 
+**Link to work:** 
+
+
+### Day 22: January 18, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: YouTube Vidoe - Axios Crash Couse - by Brad Traversy  
+
+**Thoughts: ** 
+**Link to work:** 
+
