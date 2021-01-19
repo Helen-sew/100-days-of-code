@@ -231,3 +231,13 @@ Day10_Dad Jokes
 **Thoughts: ** 
 **Link to work:** 
 
+
+### Day 23: January 19, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com - 
+Day11_Event KeyCode  
+
+
+**Thoughts: **
+**Link to work:** 
