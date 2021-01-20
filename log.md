@@ -241,3 +241,14 @@ Day11_Event KeyCode
 
 **Thoughts: **
 **Link to work:** 
+
+### Day 24: January 20, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com - 
+Day12_FAQ Collapse 
+
+
+**Thoughts: ** Learnt how to add fontAwesome unicode in CSS. Used pseudocode ::before and ::after to add the icone as a background. 
+
+**Link to work:** leetcode problem 1475. Final Prices With a Special Discount in a Shop
