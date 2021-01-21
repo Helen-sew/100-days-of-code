@@ -252,3 +252,14 @@ Day12_FAQ Collapse
 **Thoughts: ** Learnt how to add fontAwesome unicode in CSS. Used pseudocode ::before and ::after to add the icone as a background. 
 
 **Link to work:** leetcode problem 1475. Final Prices With a Special Discount in a Shop
+
+
+### Day 25: January 21, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Quick revision of HOF - forEach, Filter, Map, Sort and Reduce - YouTube Video by Brad Traversy.
+
+
+**Thoughts: ** 
+
+**Link to work:** leetcode problem 
