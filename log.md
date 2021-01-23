@@ -262,4 +262,25 @@ Day12_FAQ Collapse
 
 **Thoughts: ** 
 
-**Link to work:** leetcode problem 
+**Link to work:** 
+
+### Day 26: January 22, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: React 2021  - YouTube Video by Brad Traversy.
+
+**Thoughts: ** 
+
+**Link to work:** 
+
+### Day 27: January 23, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: revised on basic algorithem scripting in FreeCodeCamp - focus on recursive function. Getting ready for Tuesday interview. 
+
+
+**Thoughts: ** 
+
+**Link to work:**
+
+
