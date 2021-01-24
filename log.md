@@ -278,9 +278,16 @@ Day12_FAQ Collapse
 
 **Today's Progress**: revised on basic algorithem scripting in FreeCodeCamp - focus on recursive function. Getting ready for Tuesday interview. 
 
-
 **Thoughts: ** 
 
+**Link to work:**
+
+
+### Day 28: January 24, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: continue revising on basic algorithem scripting in FreeCodeCamp website. Getting ready for Tuesday interview. 
+**Thoughts: ** 
 **Link to work:**
 
 
