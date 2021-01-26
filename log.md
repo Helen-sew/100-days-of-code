@@ -246,7 +246,7 @@ Day11_Event KeyCode
 ##### (delete me or comment me out)
 
 **Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com - 
-Day12_FAQ Collapse 
+Day13_FAQ Collapse 
 
 
 **Thoughts: ** Learnt how to add fontAwesome unicode in CSS. Used pseudocode ::before and ::after to add the icone as a background. 
@@ -290,4 +290,18 @@ Day12_FAQ Collapse
 **Thoughts: ** 
 **Link to work:**
 
+### Day 29: January 25, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: completed basic algorithem scripting in FreeCodeCamp website. Getting ready for Tuesday interview. 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 30: January 26, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: 50-projects-50-days-HTML, CSS and JavaScript by Brad Traversy @https://www.udemy.com - 
+Day13_Random Choice Picker 
+**Thoughts: ** 
+**Link to work:**
 
