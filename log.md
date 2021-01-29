@@ -305,3 +305,25 @@ Day13_Random Choice Picker
 **Thoughts: ** 
 **Link to work:**
 
+### Day 31: January 27, 2021
+
+**Today's Progress**:  Start to relearn React.js - read React.js FreeCodeCamp Beginner Handbook. 
+**Thoughts: ** 
+**Link to work:**
+
+
+### Day 32: January 28, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+
+### Day 33: January 29, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
