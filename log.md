@@ -327,3 +327,37 @@ Day13_Random Choice Picker
 **Thoughts: ** 
 **Link to work:**
 
+### Day 34: January 30, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 35: January 31, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 36: Feb 1, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 37: Feb 2, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 38: Feb 3, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
