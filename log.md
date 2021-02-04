@@ -361,3 +361,11 @@ Day13_Random Choice Picker
 **Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
 **Thoughts: ** 
 **Link to work:**
+
+### Day 39: Feb 4, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - create loading spinner, reactor class component to functional component and practice on react form events - onChange and onSubmit. 
+
+**Thoughts: **  tried many time on react form - still not very sure how to handle the onChange and onSubmit. Need more practice.  
+**Link to work:**
