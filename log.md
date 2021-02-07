@@ -369,3 +369,19 @@ Day13_Random Choice Picker
 
 **Thoughts: **  tried many time on react form - still not very sure how to handle the onChange and onSubmit. Need more practice.  
 **Link to work:**
+
+### Day : 40:  Feb 5, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: creating Todo App using React.js 
+
+
+### Day : 41:  Feb 6, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: continue creating Todo App using React.js 
+
+### Day : 42:  Feb 7, 2021
+##### (delete me or comment me out)
+
+**Today's Progress**: continue to create To do App using React.js - completed input todoForm.js, todoList.js and todo.js - able to add input and show it in the ul list. 
