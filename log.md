@@ -384,4 +384,17 @@ Day13_Random Choice Picker
 ### Day : 42:  Feb 7, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: continue to create To do App using React.js - completed input todoForm.js, todoList.js and todo.js - able to add input and show it in the ul list. 
+**Today's Progress**: continue to create To do App using React.js - completed input todoForm.js, todoList.js and todo.js - able to add input and show it in the ul list.
+
+### Day 43: Feb 18, 2021
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** 
+**Link to work:**
+
+### Day 44: Feb 19, 2021
+
+**Today's Progress**: Started React Front to Back by Brad Traversy @https://www.udemy.com - 
+**Thoughts: ** refactored all class components to functional ones with Hook (useState and useEffect). Start to implement context api.  
+**Link to work:**
+
