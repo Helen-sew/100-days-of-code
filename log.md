@@ -398,3 +398,13 @@ Day13_Random Choice Picker
 **Thoughts: ** refactored all class components to functional ones with Hook (useState and useEffect). Start to implement context api.  
 **Link to work:**
 
+### Day 45: March 5, 2021
+
+**Today's Progress**: recreated HTML, CSS and Javascript Project -  Random Choice Picker.
+**Thoughts:  futher understand how to use setInterval and setTimeout. When to use and the differences. 
+**Link to work:**
+
+
+
+
+
