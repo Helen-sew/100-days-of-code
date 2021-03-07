@@ -410,9 +410,8 @@ Day13_Random Choice Picker
 **Thoughts:  learnt CSS animation. 
 **Link to work:**
 
-### Day 47: March 7, 2021
-
+### Day 47: March 7, 2021  
 **Today's Progress**: Learnt CSS animation with keyframes 
-**Thoughts:  futher understand how to use setInterval and setTimeout. When to use and the differences. 
-**Link to work:**
+
+
 
