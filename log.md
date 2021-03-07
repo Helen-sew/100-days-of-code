@@ -404,7 +404,15 @@ Day13_Random Choice Picker
 **Thoughts:  futher understand how to use setInterval and setTimeout. When to use and the differences. 
 **Link to work:**
 
+### Day 46: March 6, 2021
 
+**Today's Progress**: Started HTML, CSS and Javascript Project Day14 -  Animated Navigation .
+**Thoughts:  learnt CSS animation. 
+**Link to work:**
 
+### Day 47: March 7, 2021
 
+**Today's Progress**: Learnt CSS animation with keyframes 
+**Thoughts:  futher understand how to use setInterval and setTimeout. When to use and the differences. 
+**Link to work:**
 
