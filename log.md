@@ -413,5 +413,59 @@ Day13_Random Choice Picker
 ### Day 47: March 7, 2021  
 **Today's Progress**: Learnt CSS animation with keyframes 
 
+### Day 48: March 8, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 49: March 9, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 50 : March 10, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 51: March 11, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 52: March 12, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 53: March 13, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 54: March 14, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 55: March 15, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 56: March 16, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 57: March 17, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 58: March 18, 2021  
+**Today's Progress**: Revise and relearn React.js 
+
+### Day 59: March 19, 2021  
+**Today's Progress**: HTML, CSS, JS - start working on MovieApp  
+
+### Day 60: March 20, 2021  
+**Today's Progress**: HTML, CSS, JS - continue and finish up MovieApp 
+
+### Day 61: March 21, 2021  
+**Today's Progress**: HTML, CSS, JS - start working CountTimer App 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
