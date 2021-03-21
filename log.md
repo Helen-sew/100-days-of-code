@@ -453,7 +453,8 @@ Day13_Random Choice Picker
 **Today's Progress**: HTML, CSS, JS - continue and finish up MovieApp 
 
 ### Day 61: March 21, 2021  
-**Today's Progress**: HTML, CSS, JS - start working CountTimer App 
+**Today's Progress**: HTML, CSS, JS - start working Birthday Countdown App - completed the countTimer function. However thinking of implement the input for the date. To allow the user to input their birthday. 
+
 
 
 
