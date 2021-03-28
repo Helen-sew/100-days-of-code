@@ -455,10 +455,26 @@ Day13_Random Choice Picker
 ### Day 61: March 21, 2021  
 **Today's Progress**: HTML, CSS, JS - start working Birthday Countdown App - completed the countTimer function. However thinking of implement the input for the date. To allow the user to input their birthday. 
 
+### Day 62: March 22, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
+### Day 63: March 23, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
+### Day 64: March 24, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
+### Day 65: March 25, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
+### Day 66: March 26, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
+
+### Day 67: March 27, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
+
+### Day 68: March 28, 2021  
+**Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
 
 
