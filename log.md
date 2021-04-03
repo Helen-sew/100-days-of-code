@@ -477,6 +477,20 @@ Day13_Random Choice Picker
 **Today's Progress**: building Task Manager App using React.js (hooks and context API).
 
 
+### Day 69: Apr 1, 2021  
+**Today's Progress**: building Background Slider using HTML, CSS and JS.
+
+### Day 70: Apr 2, 2021  
+**Today's Progress**: continute building Background Slider using HTML, CSS and JS and completed it.
+
+### Day 71: Apr 3, 2021  
+**Today's Progress**: building Theme Clock using HTML, CSS and JS and practice some JS questions.
+
+
+
+
+
+
 
 
 
