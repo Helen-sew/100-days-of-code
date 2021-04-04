@@ -486,6 +486,9 @@ Day13_Random Choice Picker
 ### Day 71: Apr 3, 2021  
 **Today's Progress**: building Theme Clock using HTML, CSS and JS and practice some JS questions.
 
+### Day 72: Apr 4, 2021  
+**Today's Progress**: continued and completed building Theme Clock using HTML, CSS and JS.
+
 
 
 
