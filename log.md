@@ -507,6 +507,9 @@ Day13_Random Choice Picker
 ### Day 78: Apr 9, 2021  
 **Today's Progress**: practice on React.js. Completed building todo app using Hooks and context api. 
 
+### Day 79: Apr 10, 2021  
+**Today's Progress**: Advanced CSS and SASS. -  
+
 
 
 
