@@ -489,6 +489,24 @@ Day13_Random Choice Picker
 ### Day 72: Apr 4, 2021  
 **Today's Progress**: continued and completed building Theme Clock using HTML, CSS and JS.
 
+### Day 73: Apr 5, 2021  
+**Today's Progress**: practice on React.js. Re-create todo app using Hooks, context api use localStorage to setItem and getItem. 
+
+### Day 74: Apr 6, 2021  
+**Today's Progress**: practice on React.js. continue to build todo app using Hooks and context api. 
+
+### Day 75: Apr 7, 2021  
+**Today's Progress**: practice on React.js. continue to build todo app using Hooks and context api. 
+
+### Day 76: Apr 8, 2021  
+**Today's Progress**: practice on React.js. continue to build todo app using Hooks and context api. 
+
+### Day 77: Apr 8, 2021  
+**Today's Progress**: practice on React.js. continue to build todo app using Hooks and context api. 
+
+### Day 78: Apr 9, 2021  
+**Today's Progress**: practice on React.js. Completed building todo app using Hooks and context api. 
+
 
 
 
