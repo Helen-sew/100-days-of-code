@@ -508,7 +508,31 @@ Day13_Random Choice Picker
 **Today's Progress**: practice on React.js. Completed building todo app using Hooks and context api. 
 
 ### Day 79: Apr 10, 2021  
-**Today's Progress**: Advanced CSS and SASS. -  
+**Today's Progress**: Start tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 80: Apr 11, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 81: Apr 12, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 82: Apr 13, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 83: Apr 14, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 84: Apr 15, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
+
+### Day 85: Apr 16, 2021  
+**Today's Progress**: Doing JrWebTest and build 1 page of HTML page. 
+
+### Day 86: Apr 17, 2021  
+**Today's Progress**: Doing JrWebTest and build 1 page of HTML page. 
+
+### Day 87: Apr 18, 2021  
+**Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
 
 
 
