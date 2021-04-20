@@ -534,6 +534,19 @@ Day13_Random Choice Picker
 ### Day 87: Apr 18, 2021  
 **Today's Progress**: Continue tutorial to learn Advanced CSS and SASS. Build EcoTours website. 
 
+### Day 88: Apr 19, 2021  
+**Today's Progress**: read on Javascript scope and closure. 
+
+### Day 89: Apr 20, 2021  
+**Today's Progress**: 
+
+
+
+
+
+
+
+
 
 
 
