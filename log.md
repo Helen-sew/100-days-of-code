@@ -538,7 +538,17 @@ Day13_Random Choice Picker
 **Today's Progress**: read on Javascript scope and closure. 
 
 ### Day 89: Apr 20, 2021  
+**Today's Progress**: to create button with ripple effect with HTML, CSS and JS. 
+
+### Day 90: Apr 21, 2021  
+**Today's Progress**: to complete createing a button with ripple effect using HTML, CSS and Javascript. 
+
+
+### Day 91: Apr 22, 2021  
 **Today's Progress**: 
+
+
+
 
 
 
