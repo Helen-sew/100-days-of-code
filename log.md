@@ -538,14 +538,29 @@ Day13_Random Choice Picker
 **Today's Progress**: read on Javascript scope and closure. 
 
 ### Day 89: Apr 20, 2021  
-**Today's Progress**: to create button with ripple effect with HTML, CSS and JS. 
+**Today's Progress**: to create button with ripple effect with HTML, CSS and JS 
+**Thoughts : completed HTML and CSS. 
 
 ### Day 90: Apr 21, 2021  
 **Today's Progress**: to complete createing a button with ripple effect using HTML, CSS and Javascript. 
+**Thought: learnt clientX, clientY, offsetTop and offsetLeft for position of an element in DOM. 
 
 
 ### Day 91: Apr 22, 2021  
-**Today's Progress**: 
+**Today's Progress**: to learn HTML drag and drop API using dragEvent. Create an image box and few empty boxes. To drag and drop the image to any one of the empty box. 
+
+
+### Day 92: Apr 23, 2021  
+**Today's Progress**: to continue and complete to work on HTML drag and drop API project. 
+
+
+
+### Day 92: Apr 24, 2021  
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - start with function declation, expression, arrow, scope 
+
+
+
+
 
 
 
