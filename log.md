@@ -555,7 +555,7 @@ Day13_Random Choice Picker
 
 
 
-### Day 92: Apr 24, 2021  
+### Day 93: Apr 24, 2021  
 **Today's Progress**: to revise the understanding of javascript function (basic to advanced) - start with function declation, expression, arrow, scope 
 
 
