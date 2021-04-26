@@ -553,10 +553,14 @@ Day13_Random Choice Picker
 ### Day 92: Apr 23, 2021  
 **Today's Progress**: to continue and complete to work on HTML drag and drop API project. 
 
-
-
 ### Day 93: Apr 24, 2021  
-**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - start with function declation, expression, arrow, scope 
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - start with function declation, expression, arrow function. 
+
+### Day 94: Apr 25, 2021  
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - Recursion and Stack
+
+
+
 
 
 
