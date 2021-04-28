@@ -557,8 +557,17 @@ Day13_Random Choice Picker
 **Today's Progress**: to revise the understanding of javascript function (basic to advanced) - start with function declation, expression, arrow function. 
 
 ### Day 94: Apr 25, 2021  
-**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - Recursion and Stack
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - Function in MDN doc. Recursion and Stack
 
+### Day 95: Apr 26, 2021  
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) -  Variables scopes and closure 
+
+### Day 96: Apr 27, 2021  
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced) - Global Object, Function Object NFE
+
+
+### Day 97: Apr 28, 2021  
+**Today's Progress**: to revise the understanding of javascript function (basic to advanced)
 
 
 
