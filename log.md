@@ -565,12 +565,14 @@ Day13_Random Choice Picker
 ### Day 96: Apr 27, 2021  
 **Today's Progress**: to revise the understanding of javascript function (basic to advanced) - Global Object, Function Object NFE
 
-
 ### Day 97: Apr 28, 2021  
 **Today's Progress**: to revise the understanding of javascript function (basic to advanced)
 
+### Day 99: Apr 29, 2021  
+**Today's Progress**: reading JS book - You Don't know JS - Get Starter 
 
-
+### Day 100: Apr 30, 2021  
+**Today's Progress**: reading JS book - You Don't know JS - Get Starter 
 
 
 
