@@ -31,7 +31,7 @@ The log of my #100DaysOfCode challenge. Started on [1st, May, 2021].
 ###### R2D14- 14th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
 
 ###### R2D15- 15th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
-FreeCodeCamp Algorithms - coding interview question 1 : find the symmetric difference 
+###### FreeCodeCamp Algorithms - coding interview question 1 : find the symmetric difference 
 
 ###### R2D16- 16th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
 ###### R2D17- 17th May 2021 to read and learn 'Programming TypeScript by Boris Cherny".
