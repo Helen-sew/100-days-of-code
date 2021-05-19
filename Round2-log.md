@@ -25,15 +25,20 @@ The log of my #100DaysOfCode challenge. Started on [1st, May, 2021].
 ###### R2D11- 11th May 2021 continue to read 'You Don't Know JS - Book 2 -  Scope and closure and practice jQuery Selectors. 
  
 ###### R2D12- 12th May 2021 continue to read 'You Don't Know JS - Book 2 -  Scope and closure and practice jQuery Selectors. 
-T
+
 ###### R2D13- 13th May 2021 continue to read 'You Don't Know JS - Book 2 -  Scope and closure and learn TypeScript for Beginner 
 
 ###### R2D14- 14th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
 
 ###### R2D15- 15th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
-Algorithms - coding excersize : find the symmetric difference 
+FreeCodeCamp Algorithms - coding interview question 1 : find the symmetric difference 
 
 ###### R2D16- 16th May 2021 continue to read 'You Don't Know JS - ES6 & beyond and learn TypeScript for Beginner 
+###### R2D17- 17th May 2021 to read and learn 'Programming TypeScript by Boris Cherny".
+###### R2D18- 18th May 2021 to read and learn 'Programming TypeScript by Boris Cherny".
+###### R2D19- 19th May 2021 FreeCodeCamp Algorithms - coding interview question 2 : Stock Update. 
+ 
+ 
  
  
  
